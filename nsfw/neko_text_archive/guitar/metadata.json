@@ -1,0 +1,66 @@
+[
+    {
+        "id": 789,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/76036bea-450a-4021-ba34-d2509e53f65a.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 1051,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/719d7b37-69f8-4613-a9e9-34e48c2a6d50.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 1268,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/2b3793c6-2c80-4176-9ed5-b9889122e55a.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 1361,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/331238f3-d5fc-4fc4-a377-d8d1eae7615e.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 1465,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/9cb45022-d65c-40e3-805c-3742511ef7da.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 2778,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/24628b43-c1d8-4c90-b3b4-a005907112fa.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 3817,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/9a805557-8453-496c-bc12-f11bd6a2f779.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 3933,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/5a19005d-bfde-4428-888f-75e9dfae0b60.webp",
+        "source_api": "nekosapi.com"
+    }
+]

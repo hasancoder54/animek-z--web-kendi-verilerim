@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1435,
+        "image_id": 8610,
+        "artist_name": "Zelgius AI Art",
+        "artist_pixiv": "",
+        "artist_twitter": "",
+        "source_url": "https://www.patreon.com/cw/ZelgiusAI",
+        "image_url": "https://cdn.waifu.best/8610.png",
+        "source_api": "waifu.best"
+    },
+    {
+        "id": 1599,
+        "image_id": 8443,
+        "artist_name": "Bilinmiyor",
+        "artist_pixiv": "",
+        "artist_twitter": "",
+        "source_url": null,
+        "image_url": "https://cdn.waifu.best/8443.jpg",
+        "source_api": "waifu.best"
+    },
+    {
+        "id": 2539,
+        "image_id": 8032,
+        "artist_name": "KeinV",
+        "artist_pixiv": "https://www.pixiv.net/users/17870444",
+        "artist_twitter": "https://twitter.com/KeinV1245",
+        "source_url": "https://www.pixiv.net/artworks/100206106",
+        "image_url": "https://cdn.waifu.best/8032.jpg",
+        "source_api": "waifu.best"
+    }
+]

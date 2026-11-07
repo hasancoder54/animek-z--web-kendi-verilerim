@@ -1,0 +1,26 @@
+[
+    {
+        "id": 437,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/93bfedf2-3bfb-4ab4-bef2-71331cda0f1e.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 482,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/5e6aaa92-e485-49fa-b578-20ad4189cfdf.webp",
+        "source_api": "nekosapi.com"
+    },
+    {
+        "id": 2322,
+        "artist_name": "NekosAPI Artist",
+        "artist_href": "",
+        "source_url": "",
+        "image_url": "https://cdn.nekosapi.com/nekos-api/images/original/f5ec09d9-77a4-467e-ad59-3be21a1b42cd.webp",
+        "source_api": "nekosapi.com"
+    }
+]
